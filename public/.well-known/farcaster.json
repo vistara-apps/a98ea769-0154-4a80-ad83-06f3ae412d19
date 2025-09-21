@@ -1,0 +1,30 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "frame": {
+    "version": "1",
+    "name": "HealthWise Companion",
+    "subtitle": "Built with Zara",
+    "description": "HealthWise Companion is a Base Mini App built with Zara.",
+    "iconUrl": "https://0co.to/images/zara-2.png",
+    "homeUrl": "https://a98ea76901544a80ad8306f3ae412d19-fusr.vercel.app",
+    "splashImageUrl": "https://a98ea76901544a80ad8306f3ae412d19-fusr.vercel.app/splash.png",
+    "splashBackgroundColor": "#000000",
+    "heroImageUrl": "https://a98ea76901544a80ad8306f3ae412d19-fusr.vercel.app/image.png",
+    "tagline": "HealthWise Companion",
+    "screenshotUrls": [
+      "https://a98ea76901544a80ad8306f3ae412d19-fusr.vercel.app/screenshot.png",
+      "https://a98ea76901544a80ad8306f3ae412d19-fusr.vercel.app/screenshot.png"
+    ],
+    "primaryCategory": "social",
+    "tags": [
+      "base",
+      "miniapp",
+      "onchainkit"
+    ],
+    "webhookUrl": "https://a98ea76901544a80ad8306f3ae412d19-fusr.vercel.app/api/webhook"
+  }
+}
